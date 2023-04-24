@@ -30,8 +30,9 @@ Note that linking any of non-marketplace asobo-\*, fs-base-\*, microsoft-\* pack
 
 ### Copy both bat files next to Documents, which should where MSFS_Addon_Linker is located
 
-MSFS Addon Linker - Community.bat
-MSFS Addon Linker - Official.bat
+[MSFS Addon Linker - Community.bat](/MSFS Addon Linker - Community.bat)
+
+[MSFS Addon Linker - Official.bat](/MSFS Addon Linker - Official.bat)
 
 ![image](https://user-images.githubusercontent.com/52785190/234048524-d687395a-c2b7-4f48-9896-6a4654e81dd2.png)
 ![image](https://user-images.githubusercontent.com/52785190/234048658-c1c8b95b-31d1-4265-b1bb-cb472be1b71c.png)
