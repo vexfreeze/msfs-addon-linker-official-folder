@@ -30,11 +30,11 @@ Note that linking any of non-marketplace asobo-\*, fs-base-\*, microsoft-\* pack
 
 ### Copy both bat files next to Documents, which should where MSFS_Addon_Linker is located
 
-[MSFS Addon Linker - Community.bat](/MSFS Addon Linker - Community.bat)
-
-[MSFS Addon Linker - Official.bat](/MSFS Addon Linker - Official.bat)
+# MSFS Addon Linker - Community.bat
+# MSFS Addon Linker - Official.bat
 
 ![image](https://user-images.githubusercontent.com/52785190/234048524-d687395a-c2b7-4f48-9896-6a4654e81dd2.png)
+
 ![image](https://user-images.githubusercontent.com/52785190/234048658-c1c8b95b-31d1-4265-b1bb-cb472be1b71c.png)
 
 ### In both bat files replace "username" with your windows username - you can find it by going to Documents and MSFS_Addon_Linker and clicking address bar to reveal full path
@@ -42,12 +42,15 @@ Note that linking any of non-marketplace asobo-\*, fs-base-\*, microsoft-\* pack
 Note that username is often truncated in windows 11
 
 ![image](https://user-images.githubusercontent.com/52785190/234049582-79cabe74-44ea-42fa-88e3-88142c55f065.png)
+
 ![image](https://user-images.githubusercontent.com/52785190/234049919-a314cecb-6cab-4827-8ca9-cdc52c2980e1.png)
+
 ![image](https://user-images.githubusercontent.com/52785190/234049971-a356d94f-cf1c-45f7-b1d4-ee944c732c80.png)
 
 ### Right click on each bat file and select "Show More Details" and "Send to... Desktop (Create Shortcut)" 
 
 ![image](https://user-images.githubusercontent.com/52785190/234048897-fdf1d3a5-e02d-45d3-8679-2db13ed74875.png)
+
 ![image](https://user-images.githubusercontent.com/52785190/234049112-f7aba15b-7566-4ab6-9c91-c2cbfdb207b3.png)
 
 ### Go to Desktop, right click on each shortcut, click properties, go to Shortcut tab, click Advanced..., select "Run as administrator"
@@ -67,4 +70,5 @@ Note that you can only run one instance at a time!
 ### If you encounter any problems you can uncomment the last line of script by removing "#" to keep console open and verify the problem
 
 ![image](https://user-images.githubusercontent.com/52785190/234051594-d2d1e392-184f-493c-afbb-e6e1a7c07841.png)
+
 ![image](https://user-images.githubusercontent.com/52785190/234051634-3b4241b9-a66d-42c1-bc3f-979dbbf5fb95.png)
