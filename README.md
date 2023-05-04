@@ -8,6 +8,9 @@ You can reliably link packages in Official other than asobo-\*, fs-base-\*, micr
 
 Note that linking any of non-marketplace asobo-\*, fs-base-\*, microsoft-\*, workingtitle-\* packages may result in clearing the content of that package under "Addons Official" and/or redownload or removal of the package in Official
 
+Minimal.txt lists packages that cannot be uninstalled
+Not_Linkable.txt lists packages that will be removed/downloaded based on cloud save state(?) and should not be linked
+
 ![explorer_5Dzuikig78](https://user-images.githubusercontent.com/52785190/234043458-56b99c33-497d-4eef-becf-2282fc4c63f8.png)
 
 ## Setup
