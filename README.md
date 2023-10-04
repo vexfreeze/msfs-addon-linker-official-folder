@@ -4,6 +4,8 @@
 
 We will configure two instances of MSFS Addon Linker to use with Community and Official folders and set up scripts to automatically link configuration folder on startup
 
+![image](https://github.com/vexfreeze/msfs-addon-linker-official-folder/assets/52785190/60ebbefa-5e4c-4639-8c9c-97751e7a9689)
+
 You can reliably link packages in Official other than asobo-\*, fs-base-\*, microsoft-\*, workingtitle-\* with exceptions of packages from marketplace (both free and paid)
 
 Note that linking any of non-marketplace asobo-\*, fs-base-\*, microsoft-\*, workingtitle-\* packages may result in clearing the content of that package under "Addons Official" and/or redownload or removal of the package in Official
