@@ -14,7 +14,20 @@ Minimal.txt lists packages that cannot be uninstalled
 
 Not_Linkable.txt lists packages that will be removed/downloaded based on cloud save state(?) and should not be linked
 
+*IMPORTANT: Close one instance before starting another or config will be overwritten*
+
+Settings folders:
+
 ![explorer_5Dzuikig78](https://user-images.githubusercontent.com/52785190/234043458-56b99c33-497d-4eef-becf-2282fc4c63f8.png)
+
+Official instance:
+
+![image](https://github.com/vexfreeze/msfs-addon-linker-official-folder/assets/52785190/293a176c-5466-4e8d-ac33-baa0c119f9c6)
+
+Community instance:
+
+![image](https://github.com/vexfreeze/msfs-addon-linker-official-folder/assets/52785190/97abc866-24eb-4eef-a3fe-3efc535185a7)
+
 
 ## Setup
 
