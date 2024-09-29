@@ -4,7 +4,7 @@ if "%ERRORLEVEL%"=="0" goto running
 
 rmdir "C:\ProgramData\MSFS Addons Linker"
 mklink /D "C:\ProgramData\MSFS Addons Linker" "C:\ProgramData\MSFS Addons Linker - Official"
-cd c:\Users\weksi\Documents\MSFS_Addons_Linker
+cd c:\Users\%USERNAME%\Documents\MSFS_Addons_Linker
 .\MSFS_AddonsLinker.exe
 goto end
 
