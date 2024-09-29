@@ -56,7 +56,7 @@ Community instance:
 
 ![image](https://user-images.githubusercontent.com/52785190/234048658-c1c8b95b-31d1-4265-b1bb-cb472be1b71c.png)
 
-### In both bat files replace "username" with your windows username - you can find it by going to Documents and MSFS_Addon_Linker and clicking address bar to reveal full path
+### Make sure path c:\Users\%USERNAME%\Documents\MSFS_Addons_Linker points to addon linker, if not then in both bat files replace the path with path to addon linker - normally you can find it by going to Documents and MSFS_Addon_Linker and clicking address bar to reveal full path
 
 Note that username is often truncated in windows 11
 
